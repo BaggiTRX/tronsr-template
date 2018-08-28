@@ -21,8 +21,8 @@ Then unlock 5.000.000.000 baggi
 
 Exchange Ratio: 1 BAGGI / 10 TRX
 
-Telegram: <a href="https://t.me/BaggiTRX" target="_blank">https://t.me/BaggiTRX</a>
+Telegram: (https://t.me/BaggiTRX)
 
-Web URL: <a href="https://baggi.co" target="_blank">baggi.co</a>
+Web URL: (https://baggi.co)
 
 Description: Baggi serves as a means of payment to buy products and services on e-commerce platforms, such as baggi.co  Finally, the Baggi coin can be used in warehouses or in virtual stores.

@@ -4,7 +4,7 @@ Our team of developers is working on the integration of Baggi.co with BAGGI TRX 
 
 We are working so that our Baggi TRX token is a means of payment is our platform, but we want to receive other crypts that are based on the TRON blockchain technology.
 
-Facebook: <a href="https://www.facebook.com/baggi.co/" target="_blank">https://www.facebook.com/baggi.co/</a>
-Instagram: <a href="https://www.instagram.com/baggi.co/" target="_blank">https://www.instagram.com/baggi.co/</a>
-Youtube: <a href="https://www.youtube.com/channel/UCRJxx1I6TNtXnEApenrxLZg" target="_blank">https://www.youtube.com/channel/UCRJxx1I6TNtXnEApenrxLZg</a>
-WhatsApp: <a href="https://wa.me/573133894729">+573133894729</a>
+Facebook: (https://www.facebook.com/baggi.co/)
+Instagram: (https://www.instagram.com/baggi.co/)
+Youtube: (https://www.youtube.com/channel/UCRJxx1I6TNtXnEApenrxLZg)
+WhatsApp: (https://wa.me/573133894729 )

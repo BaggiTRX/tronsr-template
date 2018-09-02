@@ -2,9 +2,9 @@
 
 Primary Server — Colombia
 
-· Intel Core i7 - 2.9ghz
+· Intel Core i7 - 3.6ghz
 
-· 16gb Ram
+· 32gb Ram
 
 · Nvidia GForce GTX 1060 - 3gb
 

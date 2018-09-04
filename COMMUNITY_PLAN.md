@@ -1,10 +1,12 @@
 ## Community Support Plan
 
-REWARD FOR VOTE SR BAGGI:
+REWARD FOR VOTE SR Segrith1 (BAGGI):
 
 As a Tron Super Representative candidate, we are currently earning rewards as a percentage of our share of the overall vote. Once elected and producing blocks for the blockchain, we will be earning 32 TRX per block produced.
 
-We are now rewarding our voters at the rate of 0.000050 TRX per vote. This means for every 20,000 votes cast for Segrith1 (BAGGI.CO), the voter will receive 1 TRX per election cycle. There is a new election cycle every 6 hours, so 20,000 votes will net 4 TRX per day.
+We are now rewarding our voters at the rate of 0.000020 TRX per vote. This means for every 20,000 votes cast for Segrith1 (BAGGI.CO), the voter will receive 0.4 TRX per election cycle. There is a new election cycle every 6 hours, so 20,000 votes will net 1.6 TRX per day.
+
+We will also give as a reward BAGGI, like this: For every 100 Votes we will pay 1 BAGGI for each cycle, then for 10,000 VOTES you will get 100 BAGGI and in the 4 cycles you get 400 BAGGI per day
 
 6 hours advance notice will be given when this advertised rate changes.
 

@@ -1,6 +1,6 @@
 ## Community Support Plan
 
-SEGRITH CORP:registered:
+SEGRITH CORP®
 NIT: 901.000.806-8
 Commercial registration 149743 of 2016/08/19
 

@@ -1,7 +1,9 @@
 ## Community Support Plan
 
 SEGRITH CORP®
+
 NIT: 901.000.806-8
+
 Commercial registration 149743 of 2016/08/19
 
 · REWARDS FOR VOTES AS A CANDIDATE AS OF OCTOBER 18, 2018:

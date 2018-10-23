@@ -15,4 +15,4 @@ This, due to the strengthening that the project has received, which affects the 
 
 Our reward will airdrop every 24 hours UTC.
 
-Likewise, the company Segrith Corp:registered:, and the BAGGI Team, has been working to strengthen and protect the investments of the participants, which benefits the entire community in greater proportion.
+Likewise, the company Segrith Corp®, and the BAGGI Team, has been working to strengthen and protect the investments of the participants, which benefits the entire community in greater proportion.

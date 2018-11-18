@@ -65,3 +65,4 @@ Recognize, settle and pay among the voters different from the pioneers benefited
 So, if one day has 4 cycles, one month has 120 cycles; thus, only those wallets that fulfill a minimum of 100 voting cycles will be entitled to the bonus.
  
 The closing of the 100 cycles will be accounted for, settled and paid on
+the 30th of each month. First, we will pay 5,000 BAGGI on November 30, 2018, and from there, the bonus will be paid on the 30th of each month.
